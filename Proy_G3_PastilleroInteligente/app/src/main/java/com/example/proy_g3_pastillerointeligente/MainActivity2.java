@@ -39,7 +39,7 @@ public class MainActivity2 extends AppCompatActivity {
                 "select * from usuarios where ID=" + id,
                 null);
         Cursor password = bd.rawQuery(
-                "select * from usuarios where password=" + pass,
+                "select * from usuarios where password=" + "'"+pass+"'",
                 null);
         if (user.moveToFirst() && password.moveToFirst()) {
             Intent i = new Intent(this, PillRegister.class );
