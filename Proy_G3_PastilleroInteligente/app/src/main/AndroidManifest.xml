@@ -16,12 +16,6 @@
             android:name=".DataBase"
             android:exported="false" />
         <activity
-            android:name=".MainActivity4"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity3"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity2"
             android:exported="false" />
         <activity
