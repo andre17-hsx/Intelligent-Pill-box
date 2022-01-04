@@ -52,17 +52,17 @@
             android:padding="12dp">
 
             <EditText
-                android:id="@+id/editTextTextPersonName"
+                android:id="@+id/textUser"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/border_top"
                 android:ems="10"
-                android:hint="Usuario"
+                android:hint="Cedula"
                 android:inputType="textPersonName"
                 android:padding="15dp" />
 
             <EditText
-                android:id="@+id/editTextTextPassword"
+                android:id="@+id/textPass"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/border_bottom"
@@ -78,6 +78,7 @@
                 android:layout_marginTop="15dp"
                 android:background="@drawable/boton"
                 android:backgroundTint="@color/design_default_color_primary"
+                android:onClick="Loggin"
                 android:text="Iniciar sesión"
                 android:textAllCaps="false"
                 app:backgroundTint="#03A9F4" />
