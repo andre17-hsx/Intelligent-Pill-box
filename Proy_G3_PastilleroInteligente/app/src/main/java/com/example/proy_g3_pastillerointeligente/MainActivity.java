@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+<<<<<<< HEAD
         Boton1=(Button)findViewById(R.id.Boton1);
 
         Boton1.setOnClickListener(new View.OnClickListener() {
@@ -26,5 +27,15 @@ public class MainActivity extends AppCompatActivity {
 
         });
 
+=======
+       // Boton1=(Button)findViewById(R.id.Boton1);
+>>>>>>> 39a69313515598b7b2b33e411242339fdfc24a23
     }
+
+    public void iniciar(View v) {
+
+        Intent i = new Intent(MainActivity.this, MainActivity2.class);
+        startActivity(i);
+    }
+
 }

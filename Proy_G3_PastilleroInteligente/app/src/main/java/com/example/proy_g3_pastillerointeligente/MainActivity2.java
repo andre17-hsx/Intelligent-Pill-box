@@ -5,7 +5,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+<<<<<<< HEAD
 import android.widget.Button;
+=======
+>>>>>>> 39a69313515598b7b2b33e411242339fdfc24a23
 
 public class MainActivity2 extends AppCompatActivity {
     Button botonCC;
@@ -25,4 +28,9 @@ public class MainActivity2 extends AppCompatActivity {
             }
         });
     }
+    public void register(View view) {
+        Intent i = new Intent(this, DataBase.class );
+        startActivity(i);
+    }
+
 }

@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/PROYECTO-PST/Proy_G3_PastilleroInteligente/app/src/main/res/layout/activity_data_base.xml" value="0.4" />
+        <entry key="..\:/PROYECTO-PST/Proy_G3_PastilleroInteligente/app/src/main/res/layout/activity_main.xml" value="0.16893115942028986" />
+        <entry key="..\:/PROYECTO-PST/Proy_G3_PastilleroInteligente/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/PROYECTO-PST/Proy_G3_PastilleroInteligente/app/src/main/res/layout/activity_main3.xml" value="0.16893115942028986" />
+        <entry key="..\:/PROYECTO-PST/Proy_G3_PastilleroInteligente/app/src/main/res/layout/fragment_first.xml" value="0.16259057971014493" />
+        <entry key="..\:/PROYECTO-PST/Proy_G3_PastilleroInteligente/app/src/main/res/layout/fragment_second.xml" value="0.16259057971014493" />
         <entry key="..\:/Users/Balita/AndroidStudioProjects/Proy_G3_PastilleroInteligente/app/src/main/res/drawable/border_bottom.xml" value="0.2537037037037037" />
         <entry key="..\:/Users/Balita/AndroidStudioProjects/Proy_G3_PastilleroInteligente/app/src/main/res/drawable/border_top.xml" value="0.22777777777777777" />
         <entry key="..\:/Users/Balita/AndroidStudioProjects/Proy_G3_PastilleroInteligente/app/src/main/res/drawable/boton.xml" value="0.1" />
