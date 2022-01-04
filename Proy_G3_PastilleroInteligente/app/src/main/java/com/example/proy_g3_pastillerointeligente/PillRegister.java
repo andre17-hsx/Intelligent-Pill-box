@@ -16,6 +16,8 @@ public class PillRegister extends AppCompatActivity {
         String Pass= bundle.getString("Pasword");
         TextView textPrueba= (TextView)findViewById(R.id.textPrueba);
         textPrueba.setText(User);
+
+
     }
 
 
