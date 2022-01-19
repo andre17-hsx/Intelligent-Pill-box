@@ -137,7 +137,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
                 android:fontFamily="serif"
-                android:text="Contraseña:" />
+                android:text="Contraseña: (Mayor a 6 caracteres)" />
 
             <EditText
                 android:id="@+id/textPassword"

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033106668498",
+    "project_id": "smartpill-f4277",
+    "storage_bucket": "smartpill-f4277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033106668498:android:0f028d80854e06b6f1260b",
+        "android_client_info": {
+          "package_name": "com.example.proy_g3_pastillerointeligente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033106668498-qbe4mrso6gujsst0dg77n7dvp7m6n6e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgQlw-w_1iETwGufEbVjqOvw4KCIxF-gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033106668498-qbe4mrso6gujsst0dg77n7dvp7m6n6e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
